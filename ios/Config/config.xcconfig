@@ -5,4 +5,4 @@ BUNDLE_IDENTIFIER = com.peternakan.mobile
 
 RUNTIME_URL = http:\/\/localhost:8080
 
-PRODUCT_NAME = nativeTemplate
+PRODUCT_NAME = Peternakan
